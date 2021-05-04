@@ -1,0 +1,48 @@
+
+
+body{
+    background: rgb(112, 110, 110);
+    background-image: url("3.jpg");
+    
+
+}
+.wrapper{
+    margin:80px;
+}
+.form-signin{
+    max-width: 500px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 15px 40px 50px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+}
+
+.form-signin .form-signin-heading{
+    margin-bottom: 30px;
+}
+.form-signin input[type="text"], .form-signin input[type="password"]{
+    margin-bottom: 20px;
+}
+
+
+
+.wrapper-aboutus{
+    margin:0px;
+}
+
+.div-aboutus{
+    
+    margin: 0 auto;
+    background: #fff;
+    padding: 15px 40px 50px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+}
+
+.div-aboutus .div-aboutus-heading{
+    margin-bottom: 30px;
+}
+.div-aboutus input[type="text"], .div-aboutus input[type="password"]{
+    margin-bottom: 20px;
+}
